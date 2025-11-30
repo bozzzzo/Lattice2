@@ -1,4 +1,4 @@
-# Lattice2 Workbench
+# Lattice2 Workbench (local)
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/DeepSOIC/Lattice2.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/DeepSOIC/Lattice2/alerts/) [![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/DeepSOIC/Lattice2.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/DeepSOIC/Lattice2/context:python)  
 
 Lattice Workbench is a plug-in module/addon (workbench) for FreeCAD.
